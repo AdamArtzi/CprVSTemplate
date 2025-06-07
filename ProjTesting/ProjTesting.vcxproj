@@ -18,14 +18,6 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="APIHandler.h" />
-    <ClInclude Include="json.hpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="APIHandler.cpp" />
-    <ClCompile Include="Source.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
