@@ -1,7 +1,8 @@
 # CprVSTemplate - C++ CPR Library Visual Studio Template
 
-## Disclosure
-**This project was assisted by AI. Including this README**
+ **!!! Disclosure - This project was assisted by AI. Including this README !!!**
+
+---
 
 This repository provides a basic Visual Studio (MSVC) C++ project template pre-configured to use the [CPR (C++ Requests) library](https://github.com/libcpr/cpr) as a static library. It includes a comprehensive test file (`Testing.cpp`) to verify the setup.
 
