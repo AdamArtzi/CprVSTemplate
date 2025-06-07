@@ -50,7 +50,7 @@ This template aims to help developers quickly start new C++ projects that requir
     *   Refer to the [CPR documentation](https://docs.libcpr.org/) for API usage.
 
 ## Project Structure
-
+```bash
 CprVSTemplate/
 ├── External/
 │ └── cpr/
@@ -68,7 +68,7 @@ CprVSTemplate/
 ├── .gitignore
 ├── CprVSTemplate.sln # Visual Studio solution file
 └── README.md
-
+```
 
 ## How This Template Was Created (Tutorial for Recreating)
 
